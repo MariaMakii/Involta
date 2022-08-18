@@ -1,0 +1,26 @@
+.app {
+  margin-top: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50% !important;
+}
+
+.input {
+  width: auto;
+}
+
+.readOnlyInput {
+  background-color: rgb(253, 175, 175);
+  color: gray;
+}
+
+.basicInput {
+  color: black;
+}
